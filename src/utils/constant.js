@@ -1,4 +1,4 @@
-export const API_END_POINT = "https://entertainment-app-2-0.onrender.com/api/v1/user";
+export const API_END_POINT = `${import.meta.env.VITE_BACKEND_URL}/api/v1/user`;
 
 export const options = {
     method: 'GET',
@@ -8,5 +8,5 @@ export const options = {
     }
   };
 
-export const  SEARCH_MOVIE_URL="https://api.themoviedb.org/3/search/movie?query=";
-export const TMDB_IMG_URL = "https://image.tmdb.org/t/p/w500";
+export const  SEARCH_MOVIE_URL="https://movielens.org/api/v1/movies?search=";
+export const TMDB_IMG_URL = "https://image.tmdb.org/t/p/original";
