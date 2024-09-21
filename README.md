@@ -5,16 +5,17 @@ This is an entertainment website similar to Netflix that display a list of movie
 This project is created in response to the capstone project for module 5 of Full stack web development course for Almabetter.
 
 ### Deployment Link-
-frontend-https://entertainment-app-gilt-ten.vercel.app/
-backend-https://entertainment-app-v06m.onrender.com/api/v1/user/register
+ frontend - https://entertainment-app-gilt-ten.vercel.app/
+ backend - https://entertainment-app-v06m.onrender.com/api/v1/user/register
 
 
-# Disclaimer - Use VPN to access the content inside the site, the source i have used for this project was not available in Indian Locations Anymore.
+# Disclaimer - 
+ Use any VPN Extension available in your browser to access the content inside the site, the source i have used for this project was not available in Indian Locations Anymore.
 
 
 ## Overview
-The Entertainment App is designed to offer users a centralized platform to explore, discover, and bookmark their favorite movies and TV series.
-It aims to enhance the user experience by providing a comprehensive and user-friendly interface.
+ The Entertainment App is designed to offer users a centralized platform to explore, discover, and bookmark their favorite movies and TV series.
+ It aims to enhance the user experience by providing a comprehensive and user-friendly interface.
 
 
 
@@ -22,8 +23,6 @@ It aims to enhance the user experience by providing a comprehensive and user-fri
 ### Features
 
 Users are be able to:
-- SignUp for the website with their fullName email and password.
-- Login with their user and password.
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Navigate between Home, Movies, TV Series, and Bookmarked Shows pages
