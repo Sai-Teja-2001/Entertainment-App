@@ -9,6 +9,9 @@ frontend-https://entertainment-app-gilt-ten.vercel.app/
 backend-https://entertainment-app-v06m.onrender.com/api/v1/user/register
 
 
+# Disclaimer - Use VPN to access the content inside the site, the source i have used for this project was not available in Indian Locations Anymore.
+
+
 ## Overview
 The Entertainment App is designed to offer users a centralized platform to explore, discover, and bookmark their favorite movies and TV series.
 It aims to enhance the user experience by providing a comprehensive and user-friendly interface.
